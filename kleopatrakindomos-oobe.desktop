@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=KleopatraKindomOS OOBE
+Comment=KleopatraKindomOS initial setup
+Exec=/bin/oobe
+Terminal=false
+NoDisplay=true
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+X-KDE-autostart-after=panel
